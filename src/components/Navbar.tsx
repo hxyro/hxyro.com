@@ -34,9 +34,7 @@ export const Navbar = () => {
           <Link to="projects" smooth={true} className="navbar-item">
             Projects
           </Link>
-          <Link to="#" smooth={true} className="navbar-item">
-            <a href="#">Resume</a>
-          </Link>
+          <a href="/resume.pdf" className="navbar-item">Resume</a>
         </div>
       </div>
     </nav>
