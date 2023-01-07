@@ -1,0 +1,8 @@
+version: "3.4"
+services:
+  web:
+    image: hxyro/hxyro.com
+    build:
+      context: .
+    ports:
+      - "3000:80"
