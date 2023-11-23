@@ -9,7 +9,6 @@ export const Projects = () => {
 
           <div className="column is-multiline is-6">
             <ProjectCard username="hxyro" repository="rcli" />
-			<ProjectCard username="nitingupta-max" repository="nitingupta-max.github.io" />
             <ProjectCard username="hxyro" repository="webpai-app" />
             <ProjectCard username="hxyro" repository="modifier" />
           </div>
