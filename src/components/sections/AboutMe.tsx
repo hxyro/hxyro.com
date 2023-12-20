@@ -27,7 +27,7 @@ export const AboutMe = () => {
           <div className="column is-8">
             <div className="content">
               <p>
-                <span className="blue-text">Hey there!</span> I am a self-taught devops engineer.
+                <span className="blue-text">Sup!</span> I am a self-taught devops engineer.
                 <br />
                 My real name is <span className="blue-text">Shubham Vyas</span> but I prefer the name{" "}
                 <span className="blue-text">hxyro</span> on the internet.
